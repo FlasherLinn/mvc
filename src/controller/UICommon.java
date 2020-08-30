@@ -217,3 +217,4 @@ A_ComboBox.prototype.setdatabinding=function(acom_id){
 		});
 	});
 }
+// /https://jsfiddle.net/ahmednr123/cs5aqxLn/
